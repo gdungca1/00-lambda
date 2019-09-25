@@ -1,6 +1,6 @@
 # Assignment 0: Lambda Calculus (140 points)
 
-## Due by Wednesday 4/10 23:59:59
+## Due by Wednesday 10/16 23:59:59
 
 Get this assignment from [this link](https://classroom.github.com/a/8hzqrBLt)
 

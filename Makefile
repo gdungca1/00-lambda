@@ -1,5 +1,5 @@
 #####################################################################################################
-COURSE=cs130sp19
+COURSE=cs130fa19
 ASGN=00
 COMPILER=lambda
 #####################################################################################################
@@ -18,7 +18,7 @@ turnin:
 	git push origin master
 
 upstream:
-	git remote add upstream https://github.com/ucsd-cse130/00-lambda.git
+	git remote add upstream https://github.com/cse130-fa19/00-lambda.git
 
 update:
 	git pull upstream master
