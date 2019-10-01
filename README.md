@@ -74,17 +74,21 @@ but you will not be graded on this.
 
 ## Submission Instructions
 
-To submit your code, just do:
+To submit your code, run:
 
 ```bash
 $ make turnin
 ```
 
+or alternatively, just `git push` you code to your classroom repository.
+
+<!--
 `turnin` will provide you with a confirmation of the
 submission process; make sure that the size of the file
 indicated by `turnin` matches the size of your file.
 See the ACS Web page on [turnin](https://acms.ucsd.edu/info/turnin.html)
 for more information on the operation of the program.
+-->
 
 **REMARK**: For problems 1 and 2, when using `=d>`, you don't need to unfold
 every definition. It is often easier to keep some definitions folded until
