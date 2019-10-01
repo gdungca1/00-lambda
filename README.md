@@ -22,20 +22,26 @@ You can edit these files and then run them,
 * by running `$ elsa path/to/file.lc` on `ieng6.ucsd.edu`, OR
 * by locally installing `elsa` following [these instructions](https://github.com/ucsd-progsys/elsa#install)
 
+<!--
 If you run it online, be sure to **copy back the result**
 into the corresponding local file before submitting.
+-->
 
 ## Running Elsa 
 
 In the lab `ieng6` You can run `elsa` on a single file `path/to/file.lc` with:
 
 ```
-exec_elsa path/to/file.lc 
+elsa path/to/file.lc 
 ```
+
+If the command `elsa` is not recognized, make sure you have "prepped" your `ieng6` account by running `prep cs130fa19`.
 
 ## Assignment Testing and Evaluation
 
+<!--
 Your functions/programs **must** compile and run on `ieng6.ucsd.edu`.
+-->
 
 All the points will be awarded automatically, by
 **evaluating your functions against a given test suite**.
@@ -80,7 +86,7 @@ To submit your code, run:
 $ make turnin
 ```
 
-or alternatively, just `git push` you code to your classroom repository.
+or alternatively, just `git push` you code to your github classroom repository.
 
 <!--
 `turnin` will provide you with a confirmation of the
