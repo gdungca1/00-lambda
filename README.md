@@ -18,14 +18,12 @@ The assignment is in the files:
 
 You can edit these files and then run them,
 
-<!--* either through the [web interface](http://goto.ucsd.edu:8095/index.html), OR-->
+* either through the [web interface](http://goto.ucsd.edu:8095/index.html), OR
 * by running `$ elsa path/to/file.lc` on `ieng6.ucsd.edu`, OR
 * by locally installing `elsa` following [these instructions](https://github.com/ucsd-progsys/elsa#install)
 
-<!--
 If you run it online, be sure to **copy back the result**
 into the corresponding local file before submitting.
--->
 
 ## Running Elsa 
 
