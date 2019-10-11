@@ -2,7 +2,7 @@
 
 ## Due by Wednesday 10/16 23:59:59
 
-Get this assignment from [this link](https://classroom.github.com/a/pIfJH-Rj)
+Get the assignment from [this link](https://classroom.github.com/a/pIfJH-Rj). *DO NOT CLONE* this repository directly!
 
 ## Overview : Lambda Calculus
 
