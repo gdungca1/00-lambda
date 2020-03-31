@@ -1,9 +1,5 @@
 # Assignment 0: Lambda Calculus (140 points)
 
-## Due by Wednesday 10/16 23:59:59
-
-Get the assignment from [this link](https://classroom.github.com/a/pIfJH-Rj). *DO NOT CLONE* this repository directly!
-
 ## Overview : Lambda Calculus
 
 The objective of this assignment is for you to understand
@@ -18,7 +14,7 @@ The assignment is in the files:
 
 You can edit these files and then run them,
 
-* either through the [web interface](http://goto.ucsd.edu:8095/index.html), OR
+* either through the [web interface](http://goto.ucsd.edu/elsa/index.html), OR
 * by running `$ elsa path/to/file.lc` on `ieng6.ucsd.edu`, OR
 * by locally installing `elsa` following [these instructions](https://github.com/ucsd-progsys/elsa#install)
 
@@ -33,7 +29,7 @@ In the lab `ieng6` You can run `elsa` on a single file `path/to/file.lc` with:
 elsa path/to/file.lc 
 ```
 
-If the command `elsa` is not recognized, make sure you have "prepped" your `ieng6` account by running `prep cs130fa19`.
+If the command `elsa` is not recognized, make sure you have "prepped" your `ieng6` account by running `prep cs130sp20`.
 
 ## Assignment Testing and Evaluation
 
