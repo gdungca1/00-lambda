@@ -12,7 +12,7 @@ turnin:
 	git push origin master
 
 upstream:
-	git remote add upstream https://github.com/cse130-sp20/00-lambda.git
+	git remote add upstream https://github.com/cse130-assignments/00-lambda.git
 
 update:
 	git pull upstream master
