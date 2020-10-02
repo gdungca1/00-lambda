@@ -29,7 +29,7 @@ In the lab `ieng6` You can run `elsa` on a single file `path/to/file.lc` with:
 elsa path/to/file.lc 
 ```
 
-If the command `elsa` is not recognized, make sure you have "prepped" your `ieng6` account by running `prep cs130sp20`.
+If the command `elsa` is not recognized, make sure you have "prepped" your `ieng6` account by running `prep cs130fa20`.
 
 ## Assignment Testing and Evaluation
 
@@ -74,6 +74,9 @@ but you will not be graded on this.
 
 ## Submission Instructions
 
+TBD
+
+<!--
 To submit your code, run:
 
 ```bash
@@ -81,6 +84,8 @@ $ make turnin
 ```
 
 or alternatively, just `git push` you code to your github classroom repository.
+
+-->
 
 <!--
 `turnin` will provide you with a confirmation of the
