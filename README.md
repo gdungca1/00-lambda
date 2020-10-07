@@ -74,7 +74,9 @@ but you will not be graded on this.
 
 ## Submission Instructions
 
-TBD
+Submit your code via the HW-0 assignment on Gradescope.
+You must submit a single zip file containing the top-level directory of your repository.
+Please *do not* include the `.stack` folder into the submission. 
 
 <!--
 To submit your code, run:
