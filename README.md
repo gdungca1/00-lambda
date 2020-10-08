@@ -75,7 +75,12 @@ but you will not be graded on this.
 ## Submission Instructions
 
 Submit your code via the HW-0 assignment on Gradescope.
-You must submit a single zip file containing the top-level directory of your repository.
+You must submit a single zip file containing a single directory with your repository inside.
+A simple way to create this zip file is:
+
+- Run `git push` to push your local changes to your private fork of the assignment repository
+- Navigate to your private fork on github and download source code as a zip
+
 Please *do not* include the `.stack` folder into the submission. 
 
 <!--
