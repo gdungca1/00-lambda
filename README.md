@@ -29,7 +29,7 @@ In the lab `ieng6` You can run `elsa` on a single file `path/to/file.lc` with:
 elsa path/to/file.lc 
 ```
 
-If the command `elsa` is not recognized, make sure you have "prepped" your `ieng6` account by running `prep cs130fa20`.
+If the command `elsa` is not recognized, make sure you have "prepped" your `ieng6` account by running `prep cs130sp21`.
 
 ## Assignment Testing and Evaluation
 
@@ -81,7 +81,7 @@ A simple way to create this zip file is:
 - Run `git push` to push your local changes to your private fork of the assignment repository
 - Navigate to your private fork on github and download source code as a zip
 
-Please *do not* include the `.stack` folder into the submission. 
+Please *do not* include the `.stack-work` folder into the submission. 
 
 <!--
 To submit your code, run:
